@@ -1,0 +1,7 @@
+This is an XCode project to launch Firefox build from source in the debugger.
+You might need to tweak to match your system
+
+Only tested with XCode 3.2.x
+
+
+Hubert Figuiere. <hub AT mozilla.com>
