@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		810BC0D115AF906300687ED7 /* HTMLElementAccessibles.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HTMLElementAccessibles.cpp; sourceTree = "<group>"; };
 		812929CE14B77A3A0016BD94 /* mozHTMLAccessible.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mozHTMLAccessible.h; sourceTree = "<group>"; };
 		812929CF14B77A3A0016BD94 /* mozHTMLAccessible.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = mozHTMLAccessible.mm; sourceTree = "<group>"; };
 		814F2C1C1499357C00578F99 /* a11yGeneric.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = a11yGeneric.h; sourceTree = "<group>"; };
@@ -490,6 +491,7 @@
 			children = (
 				814F2C5D1499357C00578F99 /* HTMLCanvasAccessible.cpp */,
 				814F2C5E1499357C00578F99 /* HTMLCanvasAccessible.h */,
+				810BC0D115AF906300687ED7 /* HTMLElementAccessibles.cpp */,
 				814F2C5F1499357C00578F99 /* HTMLFormControlAccessible.cpp */,
 				814F2C601499357C00578F99 /* HTMLFormControlAccessible.h */,
 				814F2C611499357C00578F99 /* HTMLImageMapAccessible.cpp */,
